@@ -1,2 +1,3 @@
 # MySourceCode
-This is the source code of my literal fricking brain, report an issue titled "mySourceAsWell" if this is how you work too!
+This is the source code of my literal fricking brain, if you want to help expand this joke that I am taking way too far, let me know!
+This is my first python file I have made on my own, thought It would be fun to do without having to deal with it actually working...
